@@ -15,7 +15,6 @@ module.exports = {
         'space-before-function-paren': 'off',
         'multiline-ternary': 'off'
       }
-    }
   ],
   parserOptions: {
     ecmaVersion: 'latest',

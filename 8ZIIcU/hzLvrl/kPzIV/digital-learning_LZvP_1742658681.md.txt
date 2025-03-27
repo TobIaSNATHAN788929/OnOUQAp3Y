@@ -21,7 +21,6 @@ if(APPLE)
 	set(CMAKE_MACOSX_RPATH ON)
 	set(CMAKE_INSTALL_RPATH "@loader_path/../lib")
 else()
-	set(CMAKE_INSTALL_RPATH "$ORIGIN/../lib")
 endif()
 
 add_executable(fastpathology

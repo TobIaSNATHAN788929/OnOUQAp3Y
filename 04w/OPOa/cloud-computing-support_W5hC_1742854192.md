@@ -14,7 +14,6 @@ only ("GPL2"), with the following clarification and special exception.
     OpenJDK Code with certain code licensed by Oracle as indicated at
     http://openjdk.java.net/legal/exception-modules-2007-05-08.html
     ("Designated Exception Modules") to produce an executable,
-    regardless of the license terms of the Designated Exception Modules,
     and to copy and distribute the resulting executable under GPL2,
     provided that the Designated Exception Modules continue to be
     governed by the licenses under which they were offered by Oracle.

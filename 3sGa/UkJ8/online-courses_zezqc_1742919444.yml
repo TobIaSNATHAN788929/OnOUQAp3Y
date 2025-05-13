@@ -5,7 +5,6 @@ pages:
   script:
   - ls
   artifacts:
-    paths:
     - public
     expire_in: 1 day
   only:

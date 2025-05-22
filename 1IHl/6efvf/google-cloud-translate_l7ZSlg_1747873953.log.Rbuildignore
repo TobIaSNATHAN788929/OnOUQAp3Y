@@ -9,4 +9,3 @@
 ^\.Renviron$
 ^cloud_build$
 ^CRAN-RELEASE$
-^Dockerfile$

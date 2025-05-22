@@ -242,7 +242,6 @@ Stops ongoing tasks.
   - all (-a)
   - scan (-sc)
   - attack (-a)
-  - script
 
 ## CHICKEN
 `chicken`  

@@ -182,7 +182,6 @@ Starts attack with given parameters (1 or more is required):
 **PLEASE NOTE** that *deauthall* will deactivate *deauth* and vice versa.  
 You can only run one at a time!  
 
-## ATTACK STATUS
 `attack status [<on/off>]`  
 Enables or disables printing the attack status (pkts/s) every second (only when an attack is running).  
 

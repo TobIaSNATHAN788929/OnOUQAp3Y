@@ -104,7 +104,6 @@ You generally only need to submit a CLA once, so if you've already submitted one
 again.
 
 Please sign our [Contributor License Agreement][google-cla] (CLA) before sending
-pull requests. For any code changes to be accepted, the CLA must be signed. It's
 a quick process, we promise!
 [github]: https://github.com/firebase/functions-samples
 [google-cla]: https://cla.developers.google.com

@@ -90,7 +90,6 @@ If your Pull Request isn't accepted, consider hosting it in your own GitHub
 repository, and adding it to our
 [list of community-built extensions](./community.md)!
 
-## <a name="cla"></a> Signing the CLA
 
 Contributions to this project must be accompanied by a Contributor License
 Agreement (CLA). You (or your employer) retain the copyright to your

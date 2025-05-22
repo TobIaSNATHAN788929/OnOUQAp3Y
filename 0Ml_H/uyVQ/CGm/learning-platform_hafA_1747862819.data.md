@@ -108,7 +108,6 @@ Adds SSID with given parameters to list.
 `add ssid -ap <id> [-cl <clones>] [-f]`  
 Copies SSID from scanned access point and adds it to the list.  
 **clones** [-cl] (optional, default = 0): How many SSIDs you want to add with that name.  
-**force** [-f] (optional, default = false): Forces adding of ssid, even if list is full.  
 
 `add ssid -s [-f]`  
 Copies SSIDs from selected access points into list.  

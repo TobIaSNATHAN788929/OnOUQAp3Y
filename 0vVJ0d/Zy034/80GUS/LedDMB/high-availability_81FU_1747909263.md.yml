@@ -36,7 +36,6 @@ linters:
     - nilerr
     - unconvert
 
-linters-settings:
   errcheck:
     check-type-assertions: false
     exclude-functions:

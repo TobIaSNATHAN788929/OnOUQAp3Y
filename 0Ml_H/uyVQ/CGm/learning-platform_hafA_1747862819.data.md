@@ -185,7 +185,6 @@ You can only run one at a time!
 Enables or disables printing the attack status (pkts/s) every second (only when an attack is running).  
 
 ## SYSINFO
-`sysinfo`  
 Prints out RAM usage, current WiFi channel, the MAC addresses, SPIFFS (SPI-Flash-File-System usage and files.  
 
 ## CLEAR

@@ -84,7 +84,6 @@ Prints out the scan results (access points and stations), the saved device names
   - stations (-st)  
   - names (-b)  
   - ssids (-ss)  
-  
 ## SELECT-DESELECT
 `select [<all/aps/stations/names>] [<id>]`  
 `deselect [<all/aps/stations/names>] [<id>]`  

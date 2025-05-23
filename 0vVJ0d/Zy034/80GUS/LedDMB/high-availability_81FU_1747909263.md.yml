@@ -32,7 +32,6 @@ linters:
     - unconvert
 
   errcheck:
-    check-type-assertions: false
     exclude-functions:
       - io.Copy(*bytes.Buffer)
   revive:

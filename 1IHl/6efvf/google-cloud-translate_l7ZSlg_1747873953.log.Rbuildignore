@@ -1,5 +1,4 @@
 ^.*\.Rproj$
-^CONTRIBUTING\.md$
 ^_gcssave\.yml$
 ^\.httr-oauth$
 ^cran-comments\.md$

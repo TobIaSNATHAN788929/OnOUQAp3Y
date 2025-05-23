@@ -207,7 +207,6 @@ Removes specific lines from a file.
 **The first line number is 0!**  
 
 ## REPLACE
-`replace <file> <line> <new-content>`  
 Replaces specific line of file with given content.  
 
 ## COPY

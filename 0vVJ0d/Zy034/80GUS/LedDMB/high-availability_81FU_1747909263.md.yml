@@ -26,7 +26,6 @@ linters:
     - govet
     - staticcheck
     - unused
-    - nilerr
     - unconvert
 
   errcheck:

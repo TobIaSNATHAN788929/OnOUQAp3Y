@@ -56,7 +56,6 @@ you can submit a Pull Request with a fix.
 
 See [below](#submit) for some guidelines.
 
-## <a name="submit"></a> Submission Guidelines
 
 ### Submitting an Issue
 

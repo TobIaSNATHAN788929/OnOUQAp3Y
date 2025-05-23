@@ -280,7 +280,6 @@ It's only recommended to use this feature if you have experience on how the ESP8
 Copy pasting packets out of Wireshark is very unlikely to work.  
 Also note that you're still limited to 512 characters per command!  
 
-## LED
 `led <r> <g> <b>`  
 Changes LED color based on input.  
 Be sure to disable the LED updates (see command below), if you don't want the color the be rewritten by a scan or attack.   

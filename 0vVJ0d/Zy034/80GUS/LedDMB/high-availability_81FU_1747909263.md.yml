@@ -6,7 +6,6 @@
   tests: true
 
   modules-download-mode: readonly
-
 issues:
   # https://github.com/golangci/golangci-lint/pull/4509
   exclude-dirs-use-default: true

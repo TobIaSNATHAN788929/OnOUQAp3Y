@@ -50,7 +50,6 @@ concerns, please drop us a line at
 
 If you find a bug in the source code or a mistake in the documentation, you can
 help us by submitting an issue to our [GitHub Repository][github]. Even better,
-you can submit a Pull Request with a fix.
 
 See [below](#submit) for some guidelines.
 

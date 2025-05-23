@@ -152,7 +152,6 @@ Loads/saves the ssid list, device name list and settings.
 **File** (optional): Where to load/save the file. It will use the default file name when the parameter isn't set.  
 
 ## REMOVE
-`remove <ap/station/name/ssid> <id>`  
 Removes specific ssid or name from the list.  
 **Types**:
   - ap (-ap) 

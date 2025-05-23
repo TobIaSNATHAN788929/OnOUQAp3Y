@@ -36,7 +36,6 @@ concerns, please drop us a line at
 [Firebase support](https://firebase.google.com/support).
 
 ## <a name="question"></a> Got a Question or Problem?
-
 - To report specific problems with the samples in this repository, file an
   [issue](#issue).
 - If you have questions about a sample in this repository, try opening a

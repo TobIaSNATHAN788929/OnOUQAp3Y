@@ -127,7 +127,6 @@ Saves device with given name and parameters.
 **force** [-f] (optional, default = false): Forces adding name, even if list is full.  
 
 ## REPLACE NAME
-`replace name <id> [-n <name>] [-m <mac>] [-ch <channel>] [-b <bssid>] [-s]`  
 Removes name with given ID and creates a new one with the given parameters.  
 
 ## SET-NAME

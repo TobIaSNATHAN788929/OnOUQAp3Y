@@ -102,7 +102,6 @@ Prints out the scan results (access points and stations), the saved device names
 Adds SSID with given parameters to list.  
 **ssid**: The SSID you want to add to the list.  
 **-wpa2** (optional, default = false): If the SSID you add should be an open or WPA2 encrypted network.  
-**clones** [-cl] (optional, default = 0): How many SSIDs you want to add with that name.  
 
 `add ssid -ap <id> [-cl <clones>] [-f]`  
 Copies SSID from scanned access point and adds it to the list.  

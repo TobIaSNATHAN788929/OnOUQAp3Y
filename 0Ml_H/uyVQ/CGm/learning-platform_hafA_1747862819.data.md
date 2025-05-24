@@ -34,7 +34,6 @@
 - [`reset`](#reset)
 - [`stop <all/scan/attack>`](#stop)
 - [`chicken`](#chicken)
-- [`reboot`](#reboot)
 - [`run <file>`](#run)
 - [`write <file> <commands>`](#write)
 - [`info`](#info)
